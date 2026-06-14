@@ -13,7 +13,7 @@
 2. fork한 저장소를 내 컴퓨터로 clone합니다.
 3. 새 브랜치를 만듭니다.
 4. `Likelion14th/본인이름.md` 파일을 추가합니다.
-5. `members/example.md` 파일을 참고해서 `members/본인이름.md` 파일을 만들어 주세요. 이후 내용을 작성합니다.
+5. `Likelion14th/example.md` 파일을 참고해서 `Likelion14th/본인이름.md` 파일을 만들어 주세요. 이후 내용을 작성합니다.
 6. 변경 사항을 commit합니다.
 7. 내 fork 저장소에 push합니다.
 8. 원본 저장소로 Pull Request를 보냅니다.
