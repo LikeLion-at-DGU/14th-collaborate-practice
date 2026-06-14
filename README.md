@@ -4,8 +4,8 @@
 
 ## 실습 목표
 
-Git/GitHub 협업 흐름 실습
-Fork, Clone, Branch, Commit, Push, Pull Request 과정을 직접 실습합니다.
+- Git/GitHub 협업 흐름 실습
+- Fork, Clone, Branch, Commit, Push, Pull Request 과정을 직접 실습합니다.
 
 ## 실습 순서
 
