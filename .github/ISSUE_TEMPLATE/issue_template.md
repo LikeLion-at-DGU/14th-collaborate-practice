@@ -1,13 +1,14 @@
 ---
 name: "🚀 Feature Request"
 about: 새로운 기능 개발을 요청하거나 제안합니다.
-title: "[Feat] "
+title: "[Feat] 조수아 자기소개"
 labels: ""
 assignees: ""
 ---
 
 ## ✨ 기능 개요
 구현하고자 하는 기능에 대해 간략하게 설명해 주세요.
+안녕하세요 
 
 - ex. 로그인 페이지 UI를 구현합니다.
 
